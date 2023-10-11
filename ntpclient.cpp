@@ -1,6 +1,6 @@
 /*
 * MIT License
-* Copyright (C) 2013 Edison Henrique Andreassy
+* Copyright (C) 2023 Edison Henrique Andreassy
 */
 
 #include <iomanip>
