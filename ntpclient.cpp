@@ -1,3 +1,8 @@
+/*
+* MIT License
+* Copyright (C) 2013 Edison Henrique Andreassy
+*/
+
 #include <iomanip>
 #include <iostream>
 #include <WinSock2.h>
